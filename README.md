@@ -1,6 +1,13 @@
-# Next.js + Tailwind CSS Example
+# Netflix-Clone [Next.js + Tailwind]
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+
+## Preview
+
+Using Vercel, you can check the project bellow.
+
+[Netflix-Clone](https://netflix-clone-yt-tau.vercel.app)
+
 
 ## Deploy your own
 
