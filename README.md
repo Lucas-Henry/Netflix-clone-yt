@@ -4,7 +4,7 @@ This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](
 
 ## Preview
 
-Using Vercel, you can check the project bellow.
+Using Vercel link you can check the preview below.
 
 [Netflix-Clone](https://netflix-clone-yt-tau.vercel.app)
 
