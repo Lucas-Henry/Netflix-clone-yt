@@ -1,4 +1,4 @@
-## Notes
+# Notes
 This project is not complete yet. will be soon!
 # Netflix-Clone [Next.js + Tailwind]
 
