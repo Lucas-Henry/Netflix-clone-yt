@@ -12,6 +12,15 @@ This is not a extension of Netflix so you shouldn't use your real credentials. T
 - Create and type any email in the box.
 - Create any password.
 - Click "Register Now" to register your test credentials in firebase.
+#### Or Sign In:
+- Email
+```bash
+test@mail.com
+```
+- Password
+```bash
+123456
+```
 ## Preview
 
 Using Vercel link you can check the preview below.
