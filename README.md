@@ -4,6 +4,13 @@ This project is not complete yet. will be soon!
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
+# WARNING
+###This project was made for educational purposes only.
+This is not a extension of Netflix so you shouldn't use your real credentials. To 
+
+#### On first Screen
+ - Revenue was off the chart.
+ - Profits were higher than ever.
 ## Preview
 
 Using Vercel link you can check the preview below.
