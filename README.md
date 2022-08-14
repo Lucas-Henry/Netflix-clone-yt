@@ -9,8 +9,9 @@ This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](
 This is not a extension of Netflix so you shouldn't use your real credentials. To 
 
 #### On first Screen
- - Revenue was off the chart.
- - Profits were higher than ever.
+- Create and type any email in the box.
+- Create any password.
+- Click "Register Now" to register your test credentials in firebase.
 ## Preview
 
 Using Vercel link you can check the preview below.
